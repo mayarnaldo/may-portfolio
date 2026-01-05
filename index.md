@@ -13,8 +13,8 @@ Includes:
 - Stakeholder Alignment Assistant
 Explore the project:
 - 👉 Case Study
-- 👉 Live Demo (add your Streamlit link)
-- 👉 GitHub Repository (add repo link)
+- 👉 Live Demo https://ai-appuct-toolkit-3jajkwrxzhjryvfnkpxl4s.streamlit.app/
+- 👉 GitHub Repository (https://github.com/mayarnaldo/ai-product-toolkit)
 
 📁 Projects
 I’m building a suite of AI tools designed specifically for Product Managers.
@@ -26,7 +26,7 @@ Browse all projects in the Projects folder.
 
 🎓 Certifications
 - AI Product Management
-- Additional PM & Agile learning (ongoing)
+  
 
 🧩 Skills & Strengths
 - Product Strategy & Execution
@@ -42,6 +42,7 @@ Browse all projects in the Projects folder.
 - LinkedIn: https://www.linkedin.com/in/mayarnaldo
 - GitHub: https://github.com/mayarnaldo
 - Email: mayarnaldo@gmail.com
+  
 I’m open to Product Manager roles, AI‑driven product teams, and opportunities where I can build meaningful tools that improve workflows.
 
 
