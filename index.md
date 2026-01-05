@@ -17,12 +17,14 @@ Explore the project:
 - 👉 [Live Demo](https://ai-appuct-toolkit-3jajkwrxzhjryvfnkpxl4s.streamlit.app/)
 - 👉 [GitHub Repository](https://github.com/mayarnaldo/ai-product-toolkit)
 
-📁 Projects
+📁 [Projects](https://github.com/mayarnaldo/mayarnaldo.github.io/tree/50962ac2dac638d04c5e3483d04809c04c1be1ce/projects)
+
 I’m building a suite of AI tools designed specifically for Product Managers.
 More projects are coming soon.
 - AI Product Toolkit — Case Study Available
 - AI Roadmap Generator — Coming Soon
 - AI KPI Tracker — Coming Soon
+
 Browse all projects in the Projects folder.
 
 🎓 Certifications
