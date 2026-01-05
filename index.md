@@ -12,7 +12,7 @@ Includes:
 - Feature Prioritization Assistant
 - Stakeholder Alignment Assistant
 Explore the project:
-- 👉 Case Study
+- 👉 [Case Study](projects/ai-product-toolkit.md)
 - 👉 [Live Demo](https://ai-appuct-toolkit-3jajkwrxzhjryvfnkpxl4s.streamlit.app/)
 - 👉 [GitHub Repository](https://github.com/mayarnaldo/ai-product-toolkit)
 
@@ -40,8 +40,8 @@ Browse all projects in the Projects folder.
 
 📬 Contact
 - [LinkedIn](https://www.linkedin.com/in/mayarnaldo)
-- [Github] (https://github.com/mayarnaldo)
-- [Email] (mayarnaldo@gmail.com)
+- [Github](https://github.com/mayarnaldo)
+- [Email](mayarnaldo@gmail.com)
   
 I’m open to Product Manager roles, AI‑driven product teams, and opportunities where I can build meaningful tools that improve workflows.
 
