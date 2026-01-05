@@ -119,9 +119,8 @@ The project showcases:
 - User‑centric design
 
 9. Links
-- Live Demo: (Add your Streamlit link)
-- GitHub Repository: (Add repo link)
-- LinkedIn Post: (Optional)
+- 👉 [Live Demo](https://ai-appuct-toolkit-3jajkwrxzhjryvfnkpxl4s.streamlit.app/)
+- 👉 [GitHub Repository](https://github.com/mayarnaldo/ai-product-toolkit)
 
 10. Roadmap
 Planned enhancements:
@@ -140,7 +139,3 @@ This project taught me that:
 - I’m fully capable of building AI products end‑to‑end
 This toolkit represents a major milestone in my transition from Product Owner → Product Manager.
 
-If you want, I can now generate the placeholder pages for:
-- ai-roadmap-generator.md
-- ai-kpi-tracker.md
-Just say the word and I’ll prepare them.
